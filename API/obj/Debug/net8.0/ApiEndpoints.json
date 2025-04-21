@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "API.Controllers.PessoaController",
+    "Method": "Get",
+    "RelativePath": "Pessoa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "Pessoa"
+  }
+]
